@@ -8,3 +8,7 @@ def toadstool
   puts status
 end
 
+def link
+  phrase = "It's-a me, Mario!\n"
+  puts phrase
+end
